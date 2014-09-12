@@ -3,7 +3,7 @@ discrete-time-simulator
 
 This is a work in progress discrete time simulator written in Go.
 
-**The code is not usable in its current state**
+:warning: **The code is not usable in its current state** :warning:
 
 
 The following are general ideas for the design:
